@@ -1,0 +1,35 @@
+.App {
+  font-family: "Garamond", serif;
+  text-align: center;
+  padding: 20px;
+  background: linear-gradient(to bottom, #fff7e6, #e6f7ff);
+  min-height: 100vh;
+}
+
+button {
+  margin-top: 10px;
+  margin-right: 5px;
+  padding: 10px 20px;
+  font-size: 1rem;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+input, select {
+  margin: 5px;
+  padding: 5px;
+  font-size: 1rem;
+}
+
+.puzzle {
+  margin-top: 20px;
+  border: 2px solid #ccc;
+  padding: 15px;
+  border-radius: 10px;
+  background: #fdf6e3;
+}
+
+.feedback {
+  font-weight: bold;
+  margin-top: 10px;
+}

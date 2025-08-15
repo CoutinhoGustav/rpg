@@ -20,30 +20,7 @@ Inventário com tesouros que podem ser usados em combate
 
 Capítulos com narrativa interativa e escolhas
 
-🧩 Estrutura do Projeto
 
-rpg-ibrc/
-│
-├─ src/
-│  ├─ components/
-│  │  ├─ Capitulo1.jsx
-│  │  ├─ Capitulo2.jsx
-│  │  └─ Capitulo3.jsx
-│  │
-│  ├─ hooks/
-│  │  └─ usePlayerProgress.js
-│  │
-│  ├─ css/
-│  │  ├─ Capitulo2.css
-│  │  └─ App.css
-│  │
-│  ├─ img/
-│  │  └─ ícones e imagens do jogo (ex: demo-game.gif)
-│  │
-│  └─ App.jsx
-│
-├─ package.json
-└─ README.md
 
 🚀 Como Rodar
 
